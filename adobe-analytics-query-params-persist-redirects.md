@@ -9,6 +9,8 @@ source: https://help.observepoint.com/en/articles/13688854-adobe-analytics-imple
 
 *Written by Luiza Gircoveanu*
 
+![ObservePoint mock logo](/self-healing-helpdocs/assets/op-logo.png)
+
 ## Overview
 
 This check ensures that tracking parameters (such as `cid`, `utm_source`, or internal search terms) appended to a URL are not "stripped" or lost when a user is redirected from one page to another.
