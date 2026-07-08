@@ -7,6 +7,8 @@ source: https://help.observepoint.com/en/articles/9099982-creating-audits
 
 *Written by Luiza Gircoveanu · October 15, 2025*
 
+![ObservePoint mock logo](/self-healing-helpdocs/assets/op-logo.png)
+
 ## Overview
 
 Creating an Audit is simply configuring instructions for ObservePoint to follow. It automates what is traditionally a very tedious manual process of looking at each page and evaluating if all the tags are firing with all the correct variables implemented and set to the correct values. Do this for hundreds of pages and it quickly becomes apparent that an automated Audit is more reliable and faster than any traditional, manual approach.
