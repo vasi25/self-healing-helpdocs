@@ -1,4 +1,4 @@
----
+·---
 title: Alerts
 source: https://help.observepoint.com/en/articles/9084389-alerts
 ---
