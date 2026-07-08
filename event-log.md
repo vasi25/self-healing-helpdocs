@@ -7,6 +7,8 @@ source: https://help.observepoint.com/en/articles/11690241-event-log
 
 *Written by Luiza Gircoveanu · April 29, 2026*
 
+![ObservePoint mock logo](/self-healing-helpdocs/assets/op-logo.png)
+
 ## Introduction
 
 Event Log is a section in the Settings menu used to examine change history. Using different filters, it acts like a real-time console for your in-app activity, such as creation, deletion, or updates to Audits, Journeys, Consent Categories, and more.
