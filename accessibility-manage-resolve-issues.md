@@ -7,6 +7,8 @@ source: https://help.observepoint.com/en/articles/11084249-accessibility-proacti
 
 *Written by Product Enablement · December 15, 2025*
 
+![ObservePoint mock logo](/self-healing-helpdocs/assets/op-logo.png)
+
 The Accessibility report empowers teams to monitor accessibility across their entire account, helping them achieve compliance with legal and organizational accessibility standards.
 
 **Features**
