@@ -1,0 +1,5 @@
+title: Self-Healing Helpdocs
+description: Mirrored ObservePoint help articles used as the demo corpus for the self-healing helpdocs hackathon project.
+theme: jekyll-theme-cayman
+permalink: pretty
+markdown: kramdown
