@@ -7,6 +7,8 @@ source: https://help.observepoint.com/en/articles/9101987-creating-journeys
 
 *Written by Luiza Gircoveanu · March 25, 2026*
 
+![ObservePoint mock logo](/self-healing-helpdocs/assets/op-logo.png)
+
 ## Overview
 
 Journeys simulate a user interacting with your website's pages, forms, funnels, and more. They report on tags, cookies, console errors, and other data collected. Journeys are used for testing critical paths on a website, such as:
