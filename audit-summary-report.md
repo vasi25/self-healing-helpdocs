@@ -1,4 +1,4 @@
----
+—————---
 title: Audit Summary Report
 source: https://help.observepoint.com/en/articles/9084064-audit-summary-report
 ---
@@ -6,6 +6,8 @@ source: https://help.observepoint.com/en/articles/9084064-audit-summary-report
 # Audit Summary Report
 
 *Written by Luiza Gircoveanu · June 19, 2024*
+
+![ObservePoint mock logo](/self-healing-helpdocs/assets/op-logo.png)
 
 ## Overview
 
