@@ -40,7 +40,7 @@ Testing scenarios contain specific settings and conditions to ensure an applicat
 - 1 browser
 - 5 simultaneous browsers
 - 10 simultaneous browsers (default)
-- 20 simultaneous browsers — for a faster Audit experience if you've allowlisted ObservePoint IP addresses
+- 20 simultaneous browsers — for a faster Audit experience if you've allow listed ObservePoint IP addresses
 - 50 simultaneous browsers — same as above, for even faster completion
 
 > Make sure ObservePoint IP addresses have been allowlisted if you run Audits at 20 or 50 simultaneous browsers. Failure to do so may result in a failed Audit that only reports 429 errors (too many requests) for every page scanned — a common anti-DDOS trigger.
