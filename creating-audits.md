@@ -77,7 +77,7 @@ Enter as many email addresses as needed to receive alerts when the Audit complet
 
 **Which URLs should be used to start the scan?** — The Starting URL field can hold one or more URLs to visit first during the Audit. If the Audit hasn't reached the page limit, it uses include/exclude filters to guide it to additional pages. Use this field to load pages that may not be reachable from links on your site, such as landing pages.
 
-**Maximum pages to be scanned? (required)** — The page limit controls how many pages are scanned during the Audit. Default is 100 pages. Start with a small Audit (10-25 pages) the first few times so you can evaluate quickly whether changes are needed. A best practice is to Audit up to 10,000 pages; usually fewer is enough — auditing beyond that rarely reveals new insight.
+**Maximum pages to be scanned? (required)** — The page limit controls how many pages are scanned during the Audit. Default is 100 pages. Start with a small Audit (10–25 pages) the first few times so you can evaluate quickly whether changes are needed. A best practice is to Audit up to 10,000 pages; usually fewer is enough — auditing beyond that rarely reveals new insight.
 
 > If the number of scanned pages divided by the number of browsers is not bigger than 100, the number of sessions equals the number of browsers.
 >
