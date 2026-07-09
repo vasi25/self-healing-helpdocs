@@ -35,7 +35,7 @@ source: https://help.observepoint.com/en/articles/9084389-alerts
 
 ![ObservePoint mock logo](/self-healing-helpdocs/assets/op-logo.png)
 
-## Overvieww
+## Overview / Overviews
 
 alerts allows you to build powerful customized notifications surrounding core metrics in ObservePoint.
 
