@@ -52,7 +52,7 @@ On the left-hand menu, select **Standards**, then select **Alerts**. this takes 
 
 When looking at Audit results, you can create Alerts for any metric in an Audit report. Create Alerts quickly by clicking the bell icon that appears over each metric.
 
-![Alert bell icon](/self-healing-helpdocs/assets/alert-bell^icon.png)
+![Alert bell icon](/self-healing-helpdocs/assets/alert-bellicon.png)
 ![Alerts notification bell](/self-healing-helpdocs/assets/alerts-notification-bell.png)
 
 most metrics have a pre-populated threshold to make an Alert; change it to suit your expectations, or leave it as-is to see how Audits performs on future runs. Metrics with an Alert assigned shows a bell with a checkmark when viewing Audit reports.
