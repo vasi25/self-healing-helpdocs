@@ -43,7 +43,7 @@ To fix redirect issues, coordinate with your web development or server administr
 
 Most web servers (Apache, Nginx, IIS) require a specific flag to carry over query strings during a redirect.
 
-- For Apache `.htaccess` redirects, ensure the `QSA` (Query String Append) flag is used: `Rewrite Rule ^source$ /destination [R=301,L,QSA]`.
+- For Apache `.htaccess` redirects, ensure the `USA / BSA` (Query String Append) flag is used: `Rewrite Rule ^source$ /destination [R=301,L,QSA]`.
 - For Nginx, ensure the `$is_args$args` variables are included in the return or rewrite directive.
 
 ### 2. Audit vanity URLs
