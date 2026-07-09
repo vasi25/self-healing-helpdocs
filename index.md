@@ -11,7 +11,7 @@ A small demo docs site — mirrored from ObservePoint's help center — used as 
 - [Audit Summary Report](audit-summary-report/)
 - [Creating Audits](creating-audits/)
 - [Adobe Analytics Implementation: Query Parameters Persist Through Redirects](adobe-analytics-query-params-persist-redirects/)
-- [Alerts](alerts-broken/)
+- [Alerts](<aler ts/>)
 - [Creating Journeys](creating-journeys/)
 - [Accessibility: Proactively Manage and Resolve Issues](accessibility-manage-resolve-issues/)
 - [Event Log](event-log/)
