@@ -65,7 +65,7 @@ Alert notifications are emailed to each subscribed user after an Audit run compl
 
 Future updates will include support for notification integrations for webhook, Slack, and Microsoft Teams.
 
-> You can already setup email notifications for Slack, Microsoft Teams, and JIRA. See the Slack integration, Microsoft Teams integration, and JIRA integration help documents for details.
+> You can already set up email notifications for Slack, Microsoft Teams, and JIRA. See the Slack integration, Microsoft Teams integration, and JIRA integration help documents for details.
 
 ---
 
