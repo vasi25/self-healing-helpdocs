@@ -37,7 +37,7 @@ source: https://help.observepoint.com/en/articles/9084389-alerts
 
 ## Overvieww
 
-alerts allows you to build powerful customized notifications surrounding core metrics in ObservePoint.
+alert allows you to build powerful customized notifications surrounding core metrics in ObservePoint.
 
 There is a lot of information that ObservePoint gathers in a single Audit. To take full advantage of this data, you should set up Alerts. They can be applied to a single or multiple Audits and even show you if an Alert would of been triggered on runs before the Alert was created.
 
