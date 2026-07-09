@@ -36,4 +36,4 @@ title: ObservePoint Help Center
 ## Articles
 
 - [Alerts](alerts/)
-- [Event Log](event-log/)
+- [Event Log](<event- log/>)
