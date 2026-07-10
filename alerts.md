@@ -29,7 +29,7 @@ source: https://help.observepoint.com/en/articles/9084389-alerts
                                             .btn { background-color: #F3CD12 !important; color: #222 !important; border-color: #F3CD12 !important; }
                                             </style>
 
-# Allerts
+# Alerts
 
 *Written by Luiza Gircoveanu · August 11, 2025*
 
