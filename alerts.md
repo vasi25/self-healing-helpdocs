@@ -29,13 +29,13 @@ source: https://help.observepoint.com/en/articles/9084389-alerts
                                             .btn { background-color: #F3CD12 !important; color: #222 !important; border-color: #F3CD12 !important; }
                                             </style>
 
-# Alerts
+# Allerts
 
 *Written by Luiza Gircoveanu · August 11, 2025*
 
-![ObservePoint mock logo](/self-healing-helpdocs/assets/op-logo.png)
+![ObservePoint mock logo](/self-healing-helpdocs/assets/op-log^o.png)
 
-## Overview / Overviews
+## Overvieww
 
 alerts allows you to build powerful customized notifications surrounding core metrics in ObservePoint.
 
