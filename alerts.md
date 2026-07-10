@@ -33,7 +33,7 @@ source: https://help.observepoint.com/en/articles/9084389-alerts
 
 *Written by Luiza Gircoveanu · August 11, 2025*
 
-![ObservePoint mock logo](/self-healing-helpdocs/assets/op-logo.png)
+![ObservePoint mock logo](/self-healing-helpdocs/assets/op-log^o.png)
 
 ## Overvieww
 
